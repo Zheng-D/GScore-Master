@@ -1,5 +1,6 @@
 # GScore:Identifying driver genes in cancer by integrating omics data
 
+## All code downloaded from Releases on the right.
 
 The GScore is used to identify the cancer driver genes.
 The GScore is applyied under the R environment
