@@ -8,9 +8,9 @@ The GScore is applyied under the R environment.
 
 Install the GScore requied:
 
-1.load  .RData   and GScore.R,
+1. load  .RData   and GScore.R,
 
-2.run the main_function in GScore.R.
+2. run the main_function in GScore.R.
 GScore=function(G_mut,mirna_exp,mirna_list,R_mut,mul_edge_list,mul_gene_list)
 
 'mirna_exp' --> A miRNA expression matrix, with rows representing miRNAs and columns representing samples.
