@@ -3,7 +3,9 @@
 ## All code downloaded from Releases on the right.
 
 The GScore is used to identify the cancer driver genes.
+
 The GScore is applyied under the R environment.
+
 Install the GScore requied:
 
 1.load  .RData   and GScore.R,
